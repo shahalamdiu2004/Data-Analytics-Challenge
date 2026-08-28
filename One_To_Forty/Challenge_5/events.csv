@@ -1,0 +1,6 @@
+app_id,event_type,timestamp
+123,impression,2022-07-18 11:36:12
+123,impression,2022-07-18 11:37:12
+123,click,2022-07-18 11:37:42
+234,impression,2022-07-18 14:15:12
+234,click,2022-07-18 14:16:12
